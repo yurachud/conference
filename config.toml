@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.org"
+baseURL = "https://yurachud.github.io/conf.github.io/"
 title = "Vixcon"
 theme = "vixcon-hugo"
 # post pagination
